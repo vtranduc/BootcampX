@@ -17,6 +17,6 @@
   "homepage": "https://github.com/vtranduc/BootcampX#readme",
   "description": "",
   "dependencies": {
-    "pg": "^7.11.0"
+    "pg": "^8.11.0"
   }
 }
